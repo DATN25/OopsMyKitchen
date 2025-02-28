@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Desktop/UnrealProject/OopsMyKitchen/Content/OopsMyKitchen/Font/F_Aptos.uasset",
+				"D:/Desktop/UnrealProject/OopsMyKitchen/Content/OopsMyKitchen/Font/Aptos.uasset",
+				"D:/Desktop/UnrealProject/OopsMyKitchen/Content/OopsMyKitchen/Font/F_9Slide03_HelvetIns.uasset",
+				"D:/Desktop/UnrealProject/OopsMyKitchen/Content/OopsMyKitchen/Font/9Slide03_HelvetIns.uasset",
+				"D:/Desktop/UnrealProject/OopsMyKitchen/Content/OopsMyKitchen/TextureWidget/T_1.uasset",
+				"D:/Desktop/UnrealProject/OopsMyKitchen/Content/OopsMyKitchen/TextureWidget/T_2.uasset",
+				"D:/Desktop/UnrealProject/OopsMyKitchen/Content/OopsMyKitchen/TextureWidget/T_3.uasset",
+				"D:/Desktop/UnrealProject/OopsMyKitchen/Content/OopsMyKitchen/TextureWidget/T_4.uasset",
+				"D:/Desktop/UnrealProject/OopsMyKitchen/Content/OopsMyKitchen/Widget/WB_SplashScreen.uasset",
+				"D:/Desktop/UnrealProject/OopsMyKitchen/Content/OopsMyKitchen/Widget/WB_AccountOptions.uasset",
+				"D:/Desktop/UnrealProject/OopsMyKitchen/Content/TopDown/Maps/TopDownMap.umap",
+				"D:/Desktop/UnrealProject/OopsMyKitchen/Content/TopDown/Blueprints/BP_TopDownController.uasset"
+			]
+		}
+	]
+}
