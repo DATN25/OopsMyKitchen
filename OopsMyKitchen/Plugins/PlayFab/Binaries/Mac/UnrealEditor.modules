@@ -1,0 +1,9 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"PlayFab": "UnrealEditor-PlayFab.dylib",
+		"PlayFabCommon": "UnrealEditor-PlayFabCommon.dylib",
+		"PlayFabCpp": "UnrealEditor-PlayFabCpp.dylib"
+	}
+}

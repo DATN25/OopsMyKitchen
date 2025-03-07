@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/nguyenvannghia/Documents/GitHub/Unreal/OopsMyKitchen/OopsMyKitchen/Plugins/PlayFab/Source/PlayFab/PlayFab.Build.cs",
+		"/Users/nguyenvannghia/Documents/GitHub/Unreal/OopsMyKitchen/OopsMyKitchen/Plugins/PlayFab/Source/PlayFabCommon/PlayFabCommon.Build.cs",
+		"/Users/nguyenvannghia/Documents/GitHub/Unreal/OopsMyKitchen/OopsMyKitchen/Plugins/PlayFab/Source/PlayFabCpp/PlayFabCpp.Build.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
